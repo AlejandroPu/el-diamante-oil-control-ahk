@@ -1,15 +1,3 @@
-Este repositorio contiene 2 archivos de Autohotkey.
-
-Principal2014 es un script que comencé a desarrollar antes del 2014 para tareas de todo tipo, tales como abrir archivos frecuentes.
-
-Una parte del código permite abrir el otro script ahk para usar en mi trabajo con Transportes El Diamante, y contiene mis primeras automatizaciones que me ayudaron a ahorrar tiempo de trabajo.
-
-Más tarde, desarrollé un código de VBA que puedes revisar aquí con una descripción de mayor profundidad acerca del proyecto:
-
-https://github.com/AlejandroPu/el-diamante-oil-control-vbasic
-
-Actualmente estos códigos quedaron obsoletos por la actualización a la nueva versión de Autohotkey y Windows, en particular el notepad de Windows que solía utilizar para ejecutar los scripts.
-
 # El Diamante – Oil Control (AutoHotkey)
 
 This repository contains two **AutoHotkey** scripts.
