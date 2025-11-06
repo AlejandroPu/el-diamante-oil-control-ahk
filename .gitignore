@@ -1,0 +1,18 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Temporary or backup files
+*.bak
+*.tmp
+*.old
+*.log
+
+# AutoHotkey generated files
+*.ahk.bak
+*.ahk~
+*.exe
+
+# Optional: exclude binaries or compiled scripts if you publish only source
+dist/
+build/

@@ -1,0 +1,10 @@
+# AHK scripts are plain text
+*.ahk text diff
+
+# Images are binary files
+*.png binary
+*.bmp binary
+*.jpg binary
+
+# Force consistent line endings across OS
+* text=auto
