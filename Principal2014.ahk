@@ -403,7 +403,7 @@ return
 return
 
 ::thoughts-::
-	run M:\carpeta global\VIZ\thoughts.txt
+	run [erased for privacy]\thoughts.txt
 	msgbox, 4, , fin del script, Do you want close the console?
 	IfMsgBox, Yes
 	{	cierraconsola()
@@ -415,12 +415,12 @@ return
 return
 
 ::soc-::
-	run M:\carpeta global\VIZ\soc.txt
+	run [erased for privacy]\soc.txt
 	cierraconsola()
 return
 
 ::filo-::
-	run M:\carpeta global\VIZ\filo.txt
+	run [erased for privacy]\filo.txt
 	msgbox, 4, , fin del script, Do you want close the console?
 	IfMsgBox, Yes
 	{
@@ -429,27 +429,27 @@ return
 return
 
 ::sico-::
-	run M:\carpeta global\VIZ\sico.kpf.komodoproject
+	run [erased for privacy]\sico.kpf.komodoproject
 	cierraconsola()
 return
 
 ::lang-::
-	run M:\carpeta global\VIZ\language.txt
+	run [erased for privacy]\language.txt
 	cierraconsola()
 return
 
 ::noncom-::
-	run M:\carpeta global\VIZ\ideas no comerciales.txt
+	run [erased for privacy]\ideas no comerciales.txt
 	cierraconsola()
 return
 
 ::cliente-::
-	run M:\carpeta global\VIZ\cliente.txt
+	run [erased for privacy]\cliente.txt
 	cierraconsola()
 return
 
 ::will-::
-	run M:\carpeta global\VIZ\will.komodoproject
+	run [erased for privacy]\will.komodoproject
 	cierraconsola()
 return
 
